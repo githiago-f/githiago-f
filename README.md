@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**githiago-f/githiago-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+- 🔭 I’m currently working on SharePrime as a junior developer
+- 🌱 I’m currently learning scala and functional programming
+- 👯 I’m looking to collaborate on open source projects that could help people with their mental health
+- 🤔 I’m looking for help with Scala Future()
+- 💬 Ask me about TypeScript, JavaScript, NodeJS, Scala, Ruby... Any thing I could help you to 😉
+- 📫 How to reach me: tfarias@protonmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: My first meet with programming was with Ruby, developing RPG games
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How can I help you? 😄
