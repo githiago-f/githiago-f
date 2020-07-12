@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 About me:
-- 🔭 I’m currently working on SharePrime as a junior developer
+- 🔭 I’m currently working at SharePrime as a junior developer
 - 🌱 I’m currently learning scala and functional programming
 - 👯 I’m looking to collaborate on open source projects that could help people with their mental health
 - 🤔 I’m looking for help with Scala Future()
