@@ -8,6 +8,6 @@ About me:
 - 💬 Ask me about TypeScript, JavaScript, NodeJS, Scala, Ruby... Any thing I could help you to 😉
 - 📫 How to reach me: tfarias@protonmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: My first meet with programming was with Ruby, developing RPG games
+- ⚡ Fun fact: My first meet with programming was with Ruby, developing an RPG
 
 How can I help you? 😄
