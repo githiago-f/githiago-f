@@ -3,7 +3,6 @@
 -------------------------------------------------------------
 
 #### I'm
-- 🔭 A fullstack developer currently working at SharePrime
-as a SharePoint developer.
-- 😄 Passionate at Functional Programming and Scala.
+- 🔭 A fullstack developer currently working at SharePrime as SharePoint developer.
+- 😄 Passionate at Functional Programming and TypeScript.
 - 🌱 Learning Spring Framework.
