@@ -1,4 +1,4 @@
-![BANNER](./src/banner.png)
+![BANNER](https://raw.githubusercontent.com/githiago-f/githiago-f/master/src/banner.png)
 
 ![typescript](https://img.shields.io/badge/typescript%20-blue.svg)
 ![node](https://img.shields.io/badge/node-green.svg)
