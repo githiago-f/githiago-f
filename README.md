@@ -10,9 +10,9 @@
  - 💼 I'm currently working full-time as web developer at **SharePrime**
  - 🛠  Favorite tools: `.ts`, `.java` and `.scala` 
  - 🖤 **Functional Programming** & **OOP**
- - :e-mail: tfarias@protonmail.com
- - :books: I'm currently studing Databases and Scala
- - :heavy_check_mark: FullStack `nodejs` developer
+ - 📧 tfarias@protonmail.com
+ - 📚 I'm currently studing Databases and Scala
+ - ✔️ FullStack `nodejs` developer
 
 ## Find me at
  - 👩🏽‍💼 Sharing tech content at [LinkedIn](https://www.linkedin.com/in/githiago-f/)
