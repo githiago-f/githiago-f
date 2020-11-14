@@ -4,14 +4,14 @@
 ![node](https://img.shields.io/badge/node-green.svg)
 ![javascript](https://img.shields.io/badge/javascript%20-yellow.svg)
 ![java](https://img.shields.io/badge/java%20-orange.svg)
-![scala](https://img.shields.io/badge/scala%20-red.svg)
+// ![scala](https://img.shields.io/badge/scala%20-red.svg)
 
 ## About me
  - 💼 I'm currently working full-time as web developer at **SharePrime**
- - 🛠  Favorite tools: `.ts`, `.java` and `.scala` 
+ - 🛠  Favorite tools: `.ts` and `.java`
  - 🖤 **Functional Programming** & **OOP**
  - 📧 tfarias@protonmail.com
- - 📚 I'm currently studing Databases and Scala
+ - 📚 I'm currently studing Java
  - ✔️ FullStack `nodejs` developer
 
 ## Find me at
