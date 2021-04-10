@@ -14,4 +14,4 @@
  - ✔️ FullStack `nodejs` developer
 
 ## Find me at
- - 👩🏽‍💼 Sharing tech content at [LinkedIn](https://www.linkedin.com/in/githiago-f/)
+ - 👨🏽‍💻 Sharing tech content at [LinkedIn](https://www.linkedin.com/in/githiago-f/)
