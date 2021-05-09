@@ -10,7 +10,7 @@
  - 🛠  Favorite tools: `.ts` and `.java`
  - 🖤 **Functional Programming** & **OOP**
  - 📧 tfarias@protonmail.com
- - 📚 I'm currently studing Java
+ - 📚 I'm currently studing `project design and structuring`
  - ✔️ FullStack `nodejs` developer
 
 ## Find me at
