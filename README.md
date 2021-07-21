@@ -17,7 +17,7 @@
  - 🛠  Favorite tools: `.ts` and `.java`
  - 🖤 **Functional Programming** & **OOP**
  - 📧 tfarias@protonmail.com
- - 📚 I'm currently studing `project design like TDD, DDD and BDD`
+ - 📚 I'm currently studing `java`
  - ✔️ FullStack `nodejs` developer
 
 ## Find me at
