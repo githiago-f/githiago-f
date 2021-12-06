@@ -6,7 +6,7 @@
 ![java](https://img.shields.io/badge/java%20-orange.svg)
 
 ## About me
- - 💼 I'm currently working full-time as web developer at **SharePrime**
+ - 💼 I'm currently working full-time as Back-end dev at **SambaTech**
  - 🛠  Favorite tools: `.ts` and `.java`
  - 🖤 **Functional Programming** & **OOP**
  - 📧 tfarias@protonmail.com
