@@ -8,7 +8,6 @@
 [![Kafka](https://img.shields.io/badge/Kafka-Currently_Studying-orange?style=flat-square&logo=apache-kafka)](https://kafka.apache.org/)
 [![Docker](https://img.shields.io/badge/Docker-Experienced-blue?style=flat-square&logo=docker)](https://www.docker.com/)
 [![Spring](https://img.shields.io/badge/Spring-Currently_Studying-orange?style=flat-square&logo=spring)](https://spring.io/)
-[![JAX-RS](https://img.shields.io/badge/JAX_RS-Currently_Studying-orange?style=flat-square&logo=java)](https://docs.oracle.com/javaee/7/tutorial/jaxrs.htm)
 [![ReactJS](https://img.shields.io/badge/ReactJS-Expert-blue?style=flat-square&logo=react)](https://reactjs.org/)
 
 ```diff
