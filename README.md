@@ -21,5 +21,3 @@
 + Clean-coder
 ```
  > Efficient, scalable, and maintainable applications developer.
-
-#### 👉 *[My LinkedIn](https://www.linkedin.com/in/githiago-f)* 👈
