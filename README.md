@@ -15,7 +15,7 @@
 
 @@I'm a Full-stack developer@@
 + Expert in NodeJS
-! Studying Java, Java web services with Quarkus and Spring
+! Studying software architecture and web services with Spring
 - Level 23
 + Experienced in Functional Programming & OOP
 + Clean-coder
