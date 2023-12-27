@@ -9,6 +9,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Experienced-blue?style=flat-square&logo=docker)](https://www.docker.com/)
 [![Spring](https://img.shields.io/badge/Spring-Currently_Studying-orange?style=flat-square&logo=spring)](https://spring.io/)
 [![ReactJS](https://img.shields.io/badge/ReactJS-Expert-blue?style=flat-square&logo=react)](https://reactjs.org/)
+[![AWS](https://img.shields.io/badge/AWS-Currently_Studyng-orange?style=flat-square&logo=amazonaws)](https://reactjs.org/)
 
 ```diff
 | Hello! I'm Thiago
