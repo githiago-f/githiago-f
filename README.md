@@ -15,8 +15,8 @@
 | Hello! I'm Thiago
 
 @@I'm a Full-stack developer@@
-! Studying software architecture
 - Level 24
+! Studying software architecture
 + Expert in NodeJS
 + Passionate at Domain Driven Design and Software Architecture
 + Clean-coder
