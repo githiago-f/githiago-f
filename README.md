@@ -15,10 +15,10 @@
 | Hello! I'm Thiago
 
 @@I'm a Full-stack developer@@
+! Studying software architecture
+- Level 24
 + Expert in NodeJS
-! Studying software architecture and web services with Spring
-- Level 23
-+ Experienced in Functional Programming & OOP
++ Passionate at Domain Driven Design and Software Architecture
 + Clean-coder
 ```
  > Efficient, scalable, and maintainable applications developer.
