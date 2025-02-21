@@ -9,8 +9,8 @@
 [![Docker](https://img.shields.io/badge/Docker-Experienced-blue?style=flat-square&logo=docker)](https://www.docker.com/)
 [![Spring](https://img.shields.io/badge/Spring-Currently_Studying-orange?style=flat-square&logo=spring)](https://spring.io/)
 [![ReactJS](https://img.shields.io/badge/ReactJS-Expert-blue?style=flat-square&logo=react)](https://reactjs.org/)
-[![AWS](https://img.shields.io/badge/AWS-Currently_Studyng-orange?style=flat-square&logo=amazonaws)](https://aws.amazon.com)
-[![Go](https://img.shields.io/badge/AWS-Currently_Studyng-orange?style=flat-square&logo=amazonaws)](https://go.dev/)
+[![AWS](https://img.shields.io/badge/AWS-Currently_Studyng-orange?style=flat-square&logo=awslambda)](https://aws.amazon.com)
+[![Go](https://img.shields.io/badge/Go-Currently_Studyng-orange?style=flat-square&logo=go)](https://go.dev/)
 
 ```diff
 | Hello! I'm Thiago
@@ -22,4 +22,3 @@
 + Working with AWS Lambda and serverless architecture
 + Passionate at Domain Driven Design and Software Architecture
 ```
- > Efficient, scalable, and maintainable applications developer.
