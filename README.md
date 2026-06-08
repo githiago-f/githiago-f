@@ -3,12 +3,20 @@
 </p>
 
 ```diff
-| Hello! I'm Thiago
+@@ Thiago D. @@
 
-@@I'm a Full-stack developer@@
-- Level 24
-+ Level 25
-! Studying software architecture
-+ Working with AWS Lambda and serverless architecture
-+ Passionate at Domain Driven Design and Software Architecture
+- Level: 25
++ Level: 26
+
+@@ Current Build @@
++ Distributed systems
++ Software architecture
++ Making things unnecessarily fast
+
+@@ Side Quests @@
++ Zig
++ Terminal UIs
+
+@@ Patch Notes @@
++ Believes every problem eventually becomes a queue
 ```
